@@ -39,12 +39,12 @@ The inspection view for displays does not display a team's inspection status cor
 
 1. Create a new tournament.
 2. Start an audience display.
-3. Mark a team as partially or fully passing inspection
+3. Mark a team as partially or fully passing inspection but not checked in.
 4. Note that on the audience display, the counter at the top updates to recognise the change but the team's numbers do not switch styles.
 
 ### Expected Behaviour
 
-The team numbers should switch from black text to orange/yellow when partially passing and green when fully passing inspection.
+The team numbers should switch from black text to orange/yellow when partially passing and green when fully passing inspection. Alternatively, TM could treat partially or fully passing inspection as also checking in as teams must be present and ready to compete.
 
 ### Impact to users
 
